@@ -13,5 +13,6 @@ package test;
 public class Xzxiong {
     public static void main(String argp[]) {
         System.out.println("Hello, world!");
+        System.out.println("Hello, world! again");
     }
 }
