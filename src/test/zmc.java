@@ -13,5 +13,6 @@ package test;
 public class zmc {
     public static void main(String[] args) {
         System.out.println("增加内容");
+         System.out.println("增加内容2");
     }
 }
