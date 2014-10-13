@@ -3,6 +3,7 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("zmc xzxiong 修改2");
+        System.out.println("zmc xzxiong 修改1 冲入1");
         System.out.println("zmc冲突");
         System.out.println("创建test conflict");
         
