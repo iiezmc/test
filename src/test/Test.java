@@ -3,6 +3,7 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("zmc xzxiong 修改");
+        System.out.println("zmc冲突");
         System.out.println("创建test conflict");
         
         Lyz_Class lyz = new Lyz_Class();
